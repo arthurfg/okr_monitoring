@@ -1,7 +1,0 @@
-# Ignorar a pasta "venv"
-venv/
-
-# Ignorar arquivos com a extensão ".log"
-*.log
-
-__pycache__
